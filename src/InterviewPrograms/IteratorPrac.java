@@ -1,5 +1,8 @@
 package InterviewPrograms;
 
+// This class demonstrates the use of Iterator to remove elements from a collection while iterating.
+// Useful for practicing safe removal of elements during iteration in Java interviews.
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Iterator;

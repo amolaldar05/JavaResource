@@ -1,5 +1,8 @@
 package InterviewPrograms;
 
+// This class finds and returns the largest number in an integer array.
+// Useful for practicing array traversal and comparison logic in Java interviews.
+
 public class LargestNum {
 
 	public static int findLargestNum(int arr[]){

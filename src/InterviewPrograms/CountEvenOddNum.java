@@ -1,5 +1,8 @@
 package InterviewPrograms;
 
+// This class counts the number of even and odd numbers in an integer array.
+// Useful for practicing array traversal and conditional logic in Java interviews.
+
 public class CountEvenOddNum {
 	public static int count(int[] arr) {
 		int count=0;

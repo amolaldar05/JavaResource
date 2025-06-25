@@ -1,5 +1,8 @@
 package InterviewPrograms;
 
+// This class finds the longest common prefix among an array of strings.
+// Useful for practicing string array manipulation in Java interviews.
+
 import java.util.Arrays;
 
 public class CommonPrefixFinder {
